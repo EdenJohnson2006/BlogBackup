@@ -1,0 +1,141 @@
+avatar:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200625174516.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+
+banner:
+  enable: true
+  title: 
+    - Eden
+    - 瞎
+    - 写
+    - 小
+    - 屋
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004452.png
+  dark: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg
+  opacity: 0.8
+
+comment:
+  enable: true
+  tips:
+    - LeanCloud Intelnational抽的有点严重，所以Valine可想而知。
+    - 这边推荐使用utterances。
+  candidates:
+    - valine
+    - utterances
+
+creative_commons:
+  license: by
+  post: true
+  language: deed.zh
+  clipboard: false
+
+footer:
+  live_time:
+    enable: true
+    prefix: 本博客已经在各种Update中更新
+    suffix: "|´・ω・) ノ" 
+    start_time: "2020-06-24T20:24:00"
+  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20210001" target="_blank"> 20212127号</a>
+
+google_analytics:
+  enable: true
+  id: G-CW4Y0QQC3K
+
+github_issues:
+  enable: false
+
+mode: auto
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/index.html
+    icon: icon-genderless-line
+    color: dodgerblue
+
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 不知道有没有帮到你...
+  methods:
+    - name: 支付宝
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162034.JPG
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    - name: QQ 支付
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162126.JPG
+      color: "#12B7F5"
+      icon: icon-qq-line
+    - name: 微信支付
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627161946.JPG
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
+
+social:
+  - name: RSS
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: QQ
+    link: https://wpa.qq.com/msgrd?v=3&uin=1261087020&site=qq&menu=yes
+    icon: icon-qq-line
+    color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/EdenJohnson2006
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:me@edenjohnson.me
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=1473380275
+    icon: icon-netease-cloud-music-line
+    color: "#C10D0C"
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/630732127
+    icon: icon-bilibili-line
+    color: "#FF8EB3"
+  - name: Twitter
+    link: https://twitter.com/EdenJoh70017869
+    icon: icon-twitter-line
+    color: "#1da1f2"
+  - name: Telegram
+    link: https://t.me/edenjohns
+    icon: icon-telegram-line
+    color: "#0088CC"
+
+utterances:
+  enable: true
+  repo: EdenJohnson2006/EdenJohnson2006.github.io
+  issue-term: title
+  # label: comment
+  theme: github-dark
+    
+valine:
+  enable: true
+  appId: 3FAnMe3WyDxruBAWIvXJtz05-MdYXbMMI
+  appKey: Lyu0kX5q9Vyboo1LgfMfSS5T
+  placeholder: 发挥你的想象，给文章添砖加瓦吧！（诶等等，你要干啥，我的域名不想丢啊）
+  meta:
+    - nick
+    - mail
+    - link
+  pageSize: 10 
+  lang: zh-CN
+
+wordcloud:
+  enable: true

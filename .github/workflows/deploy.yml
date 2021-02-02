@@ -52,7 +52,7 @@ jobs:
           git clone -b master https://github.com/YunYouJun/hexo-theme-yun themes/yun
           
       - name: Generate Hexo File
-        run: hexo g
+        run:  /home/runner/.npm-global/bin/hexo g
         
       - name: Deploy With Git
         run: |

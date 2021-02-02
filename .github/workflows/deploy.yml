@@ -21,6 +21,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+         with:
+          persist-credentials: false
 
       - name: Set NodeJS Environment
         uses: actions/setup-node@v2
@@ -51,4 +53,3 @@ jobs:
           FOLDER: public # The folder the action should deploy.
           REPOSITORY_NAME: EdenJohnson2006/EdenJohnson2006.github.io
           CLEAN: true # Automatically remove deleted files from the deploy branch
-          DEBUG: true

@@ -61,7 +61,7 @@ jobs:
           cd public
           git init
           git add .
-          git commit 
+          git commit -m "test deploy"
           git branch -M master
           git remote add origin https://github.com/EdenJohnson2006/EdenJohnson2006.github.io.git
           git push -u origin master

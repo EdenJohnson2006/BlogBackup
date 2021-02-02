@@ -1,16 +1,15 @@
-# This is a basic workflow to help you get started with Actions
+# Hexo Auto Deploy Action
 
 name: Deploy Hexo Blog
 
-# Controls when the action will run. 
+# When Push Source File to Branch "master" run this Action
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: master
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
 jobs:
-  # This workflow contains a single job called "build"
+  # job build (friendly name "build on ubuntu-latest" with theme yun)
   build:
     name: Build on ${{ matrix.os }} with theme yun
     runs-on: ubuntu-latest
@@ -18,21 +17,11 @@ jobs:
       matrix:
         os: [ubuntu-latest]
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Import Private Key
-        env:
-          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
-        run: |
-          mkdir -p ~/.ssh/
-          echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-          
       - name: Set NodeJS Environment
         uses: actions/setup-node@v2
 
@@ -40,12 +29,12 @@ jobs:
         run: |
           mkdir ~/.npm-global
           npm config set prefix '~/.npm-global'
-          echo "export PATH=~/.npm-global/bin:$PATH" >> .profile
-          source ~/.profile
           npm i -g hexo-cli
           npm i
+          npm install hexo-render-pug hexo-renderer-stylus 
+        # Install Hexo and necessary render for theme yun
 
-      - name: Get Private Repo & Download Latest Themes
+      - name: Get Repo & Download Latest Themes
         run: |
           git clone https://github.com/EdenJohnson2006/BlogBackup.git gitblog
           cd gitblog
@@ -55,6 +44,7 @@ jobs:
         run:  /home/runner/.npm-global/bin/hexo g
         
       - name: Deploy With Git
+        env: HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
           git config --global user.email "ayok_ayok@outlook.com"
           git config --global user.name "EdenJohnson2006"
@@ -63,6 +53,6 @@ jobs:
           git add .
           git commit -m "test deploy"
           git branch -M master
-          git remote add origin https://github.com/EdenJohnson2006/EdenJohnson2006.github.io.git
+          git remote add origin https://"$HEXO_DEPLOY_PRI"@github.com/EdenJohnson2006/EdenJohnson2006.github.io.git
           git push -u origin master
           echo "Done!"

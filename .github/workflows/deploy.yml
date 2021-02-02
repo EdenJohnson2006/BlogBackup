@@ -38,8 +38,7 @@ jobs:
 
       - name: Get Repo & Download Latest Themes
         run: |
-          git clone https://github.com/EdenJohnson2006/BlogBackup.git gitblog
-          cd gitblog
+          cd $GITHUB_WORKSPACE
           git clone -b master https://github.com/YunYouJun/hexo-theme-yun themes/yun
           
       - name: Generate Hexo File

@@ -46,7 +46,7 @@ jobs:
       - name: Deploy With Github-pages-deploy-action
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          ACCESS_TOKEN: ${{ secrets.HEXO_DEPLOY_PRI }}
+          GITHUB_TOKEN: ${{ secrets.HEXO_DEPLOY_PRI }}
           BRANCH: master # The branch the action should deploy to.
           FOLDER: public # The folder the action should deploy.
           REPOSITORY_NAME: EdenJohnson2006/EdenJohnson2006.github.io

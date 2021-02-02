@@ -44,7 +44,8 @@ jobs:
         run:  /home/runner/.npm-global/bin/hexo g
         
       - name: Deploy With Git
-        env: HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
+        env: 
+          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
           git config --global user.email "ayok_ayok@outlook.com"
           git config --global user.name "EdenJohnson2006"

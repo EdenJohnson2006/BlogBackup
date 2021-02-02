@@ -42,8 +42,8 @@ jobs:
           npm config set prefix '~/.npm-global'
           echo "export PATH=~/.npm-global/bin:$PATH" >> .profile
           source ~/.profile
-          npm install -g cnpm
-          cnpm install -g hexo
+          npm i -g hexo-cli
+          npm i
 
       - name: Get Private Repo & Download Latest Themes
         run: |

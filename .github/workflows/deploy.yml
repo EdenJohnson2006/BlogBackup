@@ -56,11 +56,13 @@ jobs:
         
       - name: Deploy With Git
         run: |
+          git config --global user.email "ayok_ayok@outlook.com"
+          git config --global user.name "EdenJohnson2006"
           cd public
           git init
           git add .
           git commit 
-          git branch -M main
+          git branch -M master
           git remote add origin https://github.com/EdenJohnson2006/EdenJohnson2006.github.io.git
-          git push -u origin main
+          git push -u origin master
           echo "Done!"

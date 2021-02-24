@@ -28,5 +28,12 @@
       "blog": "LiuKongのBlog",
       "desc": "普普通通的初三学生",
       "color": "#4F2F4F"
+    },
+    {
+      "url": "https://66ccff.work",
+      "avatar": "https://gitee.com/hshx123/picplus/raw/master/logo.jpg",
+      "name": "杏铃",
+      "blog": "杏铃の小本",
+      "desc": "一份分享教程&游戏的博客，#galgame(主要) #Termux",
     }
 ]

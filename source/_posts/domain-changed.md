@@ -1,5 +1,5 @@
 ---
-layout: post
+holayout: post
 title: 换域名了
 date: 2021-01-30 12:08:07
 tags: 站点

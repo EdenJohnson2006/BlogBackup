@@ -35,5 +35,20 @@
       "name": "杏铃",
       "blog": "杏铃の小本",
       "desc": "一份分享教程&游戏的博客，#galgame(主要) #Termux"
-    }
+    },
+    {
+      "url": "https://blog.atri.tk",
+      "avatar": "https://secure.gravatar.com/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=256",
+      "name": "欠陥電気",
+      "blog": "欠陥電気の摸鱼小池",
+      "desc": "Misaka13514的小站",
+      "color": "#663399"
+    },
+    {
+      "url": "https://www.yotroy.cool/",
+      "avatar": "https://yotroyblog.oss-accelerate.aliyuncs.com/logo_1611840335572.jpg?x-oss-process=style/1",
+      "name": "Troy",
+      "blog": "Troy ❤️ Chloe",
+      "desc": "那些看似不起波澜的日复一日 在某天会让你看到坚持的意义"
+      }
 ]

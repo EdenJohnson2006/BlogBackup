@@ -49,13 +49,16 @@ footer:
     prefix: 本博客已经在各种Update中更新
     suffix: "|´・ω・) ノ" 
     start_time: "2020-06-24T20:24:00"
-  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20210001" target="_blank"> 20212127号</a>
+  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20212127" target="_blank"> 20212127号</a>
 
 google_analytics:
   enable: true
   id: G-CW4Y0QQC3K
 
 github_issues:
+  enable: false
+
+github_discussions:
   enable: false
 
 mode: auto
@@ -98,7 +101,7 @@ social:
     icon: icon-github-line
     color: "#181717"
   - name: E-Mail
-    link: mailto:me@edenjohnson.me
+    link: mailto:eden.j0hnson@yandex.com
     icon: icon-mail-line
     color: "#8E71C1"
   - name: 网易云音乐

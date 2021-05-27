@@ -24,7 +24,7 @@ banner:
 
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004452.png
+  url: https://cdn.jsdelivr.net/gh/EdenJohnson2006/images20200726004452.png
   dark: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg
   opacity: 0.8
 

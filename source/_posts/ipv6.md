@@ -14,15 +14,15 @@ categories: 科技
 
 嗯？IPv6地址？
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200801105956.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801105956.png)
 
 我记得前几天没有这个东西啊
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200801111045.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801111045.png)
 
 不敢相信的我还打开了我的网关
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200801162321.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801162321.png)
 
 是真IPv6没错了
 
@@ -30,9 +30,9 @@ categories: 科技
 
 HTTP和HTTPS得到了相同的结果
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802195753.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802195753.png)
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802200645.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802200645.png)
 
 可以看到。都是满满的10分（）
 
@@ -44,7 +44,7 @@ HTTP和HTTPS得到了相同的结果
 
 （下图是16分的一张）
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802201728.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802201728.png)
 
 （别问我DNS6+IP6为啥是红的
 
@@ -58,7 +58,7 @@ HTTP和HTTPS得到了相同的结果
 
 今天下BT的时候看到了好几个IPv6
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802204454.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204454.png)
 
 地址如下：
 
@@ -72,13 +72,13 @@ HTTP和HTTPS得到了相同的结果
 
 这四个查出来如下
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802204646.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204646.png)
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802204621.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204621.png)
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802204704.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204704.png)
 
-![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200802204728.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204728.png)
 
 ---
 

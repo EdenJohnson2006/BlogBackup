@@ -6,7 +6,7 @@ tags: 刷机
 categories: 科技
 ---
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727162103.jpg)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727162103.jpg)
 
 (当然这部iPhone6 Plus并不是我的 而是我大姑的)
 
@@ -18,9 +18,9 @@ iPhone6系的iOS版本永远停在了12.4.8 当时这一决定可谓引起了轩
 
 对了，这部iPhone6 Plus是官方的售后机，型号N开头…
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727161835.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727161835.png)
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727161911.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727161911.png)
 
 “就很离谱”
 
@@ -38,57 +38,57 @@ iPhone6系的iOS版本永远停在了12.4.8 当时这一决定可谓引起了轩
 
 (再次强调 我在我祖母家 电脑是我表姐的 我的小米笔记本Air早就装了黑苹果)
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727162557.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727162557.png)
 
 第一部是要安装iTunes
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727162622.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727162622.png)
 
 然后电脑重启了
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727162632.jpg)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727162632.jpg)
 
 现在iTunes正常了 连接到了iPhone
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163215.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163215.png)
 
 然后下载altstore
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163253.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163253.png)
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163312.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163312.png)
 
 解压
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163327.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163327.png)
 
 安装
 
 然后打开
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163350.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163350.png)
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163739.jpg)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163739.jpg)
 
 尝试安装时…
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163403.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163403.png)
 
 啊这…
 
 算了算了 装上吧
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163416.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163416.png)
 
 然后又来重启
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163511.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163511.png)
 
 …
 
 现在就可以安装了吧
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163527.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163527.png)
 
 额…
 
@@ -96,7 +96,7 @@ iPhone6系的iOS版本永远停在了12.4.8 当时这一决定可谓引起了轩
 
 要不…直接手机安装？
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163548.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163548.png)
 
 第一步 先越狱
 
@@ -106,17 +106,17 @@ iPhone6系的iOS版本永远停在了12.4.8 当时这一决定可谓引起了轩
 
 果不其然 失败
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163607.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163607.png)
 
 让我重启一下手机
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727163842.jpg)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727163842.jpg)
 
 然后我又试了几次
 
 好了成功了
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200727164658.png)
+![](https://pic.edenjohnson.cyou/images/PicGoBed/images20200727164658.png)
 
 接下来打开unc0ver
 

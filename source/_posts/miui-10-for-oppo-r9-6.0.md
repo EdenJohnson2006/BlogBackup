@@ -11,11 +11,11 @@ https://www.bilibili.com/video/BV1CJ411J7MB
 
 然后我看了看我手边的OPPO R9tm…
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711225749.png)
+![img](https://pic.edenjohnson.cyou/images/20200711225749.png)
 
 👴的刷机青春又要回来了
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711225630.png)
+![img](https://pic.edenjohnson.cyou/images/20200711225630.png)
 
 包已经下好了，让我们开始吧。
 
@@ -31,37 +31,37 @@ https://www.bilibili.com/video/BV1CJ411J7MB
 
 关机，进TWRP
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711231015.png)
+![img](https://pic.edenjohnson.cyou/images/20200711231015.png)
 
 国际惯例四清
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711231055.jpg)
+![img](https://pic.edenjohnson.cyou/images/20200711231055.jpg)
 
 然后扔包进去～
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711231153.png)
+![img](https://pic.edenjohnson.cyou/images/20200711231153.png)
 
 ~~忽略我凌乱还疏于整理的桌子吧www~~
 
 然后我们开刷吧
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711231257.png)
+![img](https://pic.edenjohnson.cyou/images/20200711231257.png)
 
 刷完之后…
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711232135.png)
+![img](https://pic.edenjohnson.cyou/images/20200711232135.png)
 
 开机（其实我感觉要翻车）
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711232235.png)
+![img](https://pic.edenjohnson.cyou/images/20200711232235.png)
 
 ~~这个定制开机画面…还行~~
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711232509.png)
+![img](https://pic.edenjohnson.cyou/images/20200711232509.png)
 
 ohhhhhhhhhhhhhhhhhhhhhhh（幻视）
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200711232537.png)
+![img](https://pic.edenjohnson.cyou/images/20200711232537.png)
 
 好了可以了 
 

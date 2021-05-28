@@ -19,7 +19,7 @@ tags:
 
 废话少说，先上头像：
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images/AndyMills头像.png)
+![](https://pic.edenjohnson.cyou/images/no-time/AndyMills头像.png)
 
 这两行文字都使用了OPPO Sans，所以大家~~不用担心我成张三~~
 

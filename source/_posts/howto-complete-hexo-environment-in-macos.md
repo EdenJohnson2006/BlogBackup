@@ -7,7 +7,7 @@ categories: 科技
 
 因为之前全盘装了黑苹果，所以自然对macOS下的环境有一些要求。
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627163435.png)
+![img](https://pic.edenjohnson.cyou/images/20200627163435.png)
 
 然后我的动态博客因为[数据删除]跑路而死亡了。
 
@@ -35,7 +35,7 @@ categories: 科技
 
 我们就用Homebrew装Git和NodeJS。
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627171542.png)
+![img](https://pic.edenjohnson.cyou/images/20200627171542.png)
 
 主页中已经有代码了，直接复制到终端就好了。
 
@@ -43,7 +43,7 @@ categories: 科技
 
 > ~~我才不会告诉你我试过10次，2天才安装完成。~~
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627180538.png)
+![img](https://pic.edenjohnson.cyou/images/20200627180538.png)
 
 macOS自带Git，所以你只需要安装NodeJS就好了。
 
@@ -55,7 +55,7 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 > brew install node
 > ```
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627180815.png)
+![img](https://pic.edenjohnson.cyou/images/20200627180815.png)
 
 安装完成后，最好切换npm的源，否则你又会体验装Homebrew时候的绝望了
 
@@ -63,7 +63,7 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 > npm config set registry https://registry.npm.taobao.org
 > ```
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627181439.png)
+![img](https://pic.edenjohnson.cyou/images/20200627181439.png)
 
 > ```
 > npm config get registry
@@ -79,7 +79,7 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 > npm install -g cnpm --registry=https://registry.npm.taobao.org
 > ```
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627182701.png)
+![img](https://pic.edenjohnson.cyou/images/20200627182701.png)
 
 # 终了：Hexo及相关插件的安装
 
@@ -87,11 +87,11 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 > cnpm install -g hexo
 > ```
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627182904.png)
+![img](https://pic.edenjohnson.cyou/images/20200627182904.png)
 
 以及大多数人用Hexo都是要Git到某些地方作小站的，所以安装Git插件也是有必要的。
 
-> （前提是Git前你需要建议一个工作目录，但是这不是本篇的主题，这边建议到 [https://chitang	.tk/2020/06/26/Hexo%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/](https://chitang.tk/2020/06/26/Hexo博客折腾笔记/) 了解）
+> （前提是Git前你需要建议一个工作目录，但是这不是本篇的主题，这边建议到 [https://chitang.tk/2020/06/26/Hexo%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/](https://chitang.tk/2020/06/26/Hexo博客折腾笔记/) 了解）
 >
 > （又商业互吹）
 
@@ -99,7 +99,7 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 > >npm install hexo-deployer-git --save
 > ```
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627184427.png)
+![img](https://pic.edenjohnson.cyou/images/20200627184427.png)
 
 然后你就可以Start Blogging With Hexo（官方语）了
 
@@ -109,7 +109,7 @@ macOS自带Git，所以你只需要安装NodeJS就好了。
 
 为什么选VSCode呢？因为VSCode可以添加文件夹，并且也有一定MarkDown支持，所以比较适合管理配置文件，简单写写文章之类的。
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627185128.png)
+![img](https://pic.edenjohnson.cyou/images/20200627185128.png)
 
 ## 2、Typora
 
@@ -117,7 +117,7 @@ Typora就是专业的MarkDown编辑器了，有实时预览，也可以同时添
 
 > Typora 在OS X还是Beta版本，但是我这几天用下来，并没有出现问题，所以还是推荐了过来。
 
-![img](https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627185159.png)
+![img](https://pic.edenjohnson.cyou/images/20200627185159.png)
 
 就写到这么多。关于MarkDown和其他Hexo事宜可以另找Windows文章。
 

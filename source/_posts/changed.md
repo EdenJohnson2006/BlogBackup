@@ -23,29 +23,29 @@ categories: 科技
 
 因为这个博客被重置了一次。
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726115111.png)
+![](https://pic.edenjohnson.cyou/images/images20200726115111.png)
 
 7月16日，我尝试换OpenCore引导。
 
 结果一换，我的黑苹果被锁了...
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726130940.jpg)**grass(Chinese and Japanese)**
+![](https://pic.edenjohnson.cyou/images/images20200726130940.jpg)**grass(Chinese and Japanese)**
 
 于是我抹盘重装了
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726163951.jpg)
+![](https://pic.edenjohnson.cyou/images/images20200726163951.jpg)
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726164154.jpg)
+![](https://pic.edenjohnson.cyou/images/images20200726164154.jpg)
 
 为什么我这么大胆呢？
 
 因为我还以为我的所有数据在移动硬盘里。
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726164345.jpg)
+![](https://pic.edenjohnson.cyou/images/images20200726164345.jpg)
 
 直到我装完后的18点20分...
 
-![](https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726164650.jpg)
+![](https://pic.edenjohnson.cyou/images/images20200726164650.jpg)
 
 WOC我把我博客数据给抹了草啊啊啊啊啊
 

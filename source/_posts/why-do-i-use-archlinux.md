@@ -4,6 +4,7 @@ title: Eden的Arch入教史
 date: 2020-12-20 17:02:51
 tags: Linux
 categories: 科技
+hide: true
 ---
 
 >  [eden] 草我都3个月没更新了…

@@ -3,6 +3,7 @@ layout: post
 title: 在任意有TWRP 有SD卡的手机上安装Debian（在Android设备上原生运行Debian实操）
 date: 2021-01-15 07:07:12
 tags:
+hide: true
 ---
 
 # 概述

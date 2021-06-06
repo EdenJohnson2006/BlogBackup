@@ -26,6 +26,16 @@ categories: 科技
 
 原因：不知道怎么讲了
 
+```
+noka0403  上午 11:23:47
+不知道怎么讲了还行
+
+noka0403  上午 11:24:07
+还不如说屑lijia不用加密了
+```
+
+那我就满足你
+
 ## 在任意有TWRP 有SD卡的手机上安装Debian（在Android设备上原生运行Debian实操）
 
 链接：https://blog.edenjohnson.cyou/2021/01/15/running-debian-on-android-device-natively-realdoing/

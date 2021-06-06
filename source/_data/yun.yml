@@ -24,8 +24,8 @@ banner:
 
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/EdenJohnson2006/images20200726004452.png
-  dark: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg
+  url: https://pic.edenjohnson.cyou/images/images20200726004452.png
+  dark: https://pic.edenjohnson.cyou/images/PicGoBed/images20200726004424.jpg
   opacity: 0.8
 
 comment:
@@ -117,7 +117,7 @@ social:
     icon: icon-twitter-line
     color: "#1da1f2"
   - name: Telegram
-    link: https://t.me/edenjohns
+    link: https://t.me/EdenJohnson
     icon: icon-telegram-line
     color: "#0088CC"
 

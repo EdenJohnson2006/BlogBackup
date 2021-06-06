@@ -12,25 +12,13 @@ categories: 科技
 
 对了，正在写的文章也会列在这里面。
 
-# 以下内容基于时间排序，从旧到新
+# 以下内容基于时间排序，从新到旧
 
-## Eden的Arch入教史
+## Websocket传输Minecraft JE封包
 
-链接： https://blog.edenjohnson.cyou/2020/12/20/why-do-i-use-archlinux/
+已更新内容链接： https://blog.edenjohnson.cyou/2021/05/27/websocket-mcje-ep1/
 
-原因：时间跨度过久，中间我还用了macOS一段时间...
-
-## 研（luan）究（fan）一下hexo-blog-encrypt的源代码吧（）
-
-链接： https://blog.edenjohnson.cyou/2021/01/12/hexo-blog-encrypt/
-
-原因：看不下去了，我连Python都没学懂（悲）
-
-## 在任意有TWRP 有SD卡的手机上安装Debian（在Android设备上原生运行Debian实操）
-
-链接：https://blog.edenjohnson.cyou/2021/01/15/running-debian-on-android-device-natively-realdoing/
-
-原因：设备不支持shell启动，没有开源内核导致无法硬编码
+正在编写~~（进度：新建文件夹）~~
 
 ## lijiakai常用的多重加密的判断方式
 
@@ -38,9 +26,21 @@ categories: 科技
 
 原因：不知道怎么讲了
 
-## Websocket传输Minecraft JE封包——EP1，理论依据以及计划实现
+## 在任意有TWRP 有SD卡的手机上安装Debian（在Android设备上原生运行Debian实操）
 
-链接： https://blog.edenjohnson.cyou/2021/05/27/websocket-mcje-ep1/
+链接：https://blog.edenjohnson.cyou/2021/01/15/running-debian-on-android-device-natively-realdoing/
 
-正在编写~~（进度：新建文件夹）~~
+原因：设备不支持shell启动，没有开源内核导致无法硬编码
+
+## 研（luan）究（fan）一下hexo-blog-encrypt的源代码吧（）
+
+链接： https://blog.edenjohnson.cyou/2021/01/12/hexo-blog-encrypt/
+
+原因：看不下去了，我连Python都没学懂（悲）
+
+## Eden的Arch入教史
+
+链接： https://blog.edenjohnson.cyou/2020/12/20/why-do-i-use-archlinux/
+
+原因：时间跨度过久，中间我还用了macOS一段时间...
 

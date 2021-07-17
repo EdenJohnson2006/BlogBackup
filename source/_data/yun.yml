@@ -1,6 +1,6 @@
 avatar:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200625174516.jpg
+  url: https://pic.edenjohnson.cyou/images/20200625174516.png
   rounded: true
   opacity: 1
   mickey_mouse: false
@@ -25,7 +25,7 @@ banner:
 bg_image:
   enable: true
   url: https://pic.edenjohnson.cyou/images/images20200726004452.png
-  dark: https://pic.edenjohnson.cyou/images/PicGoBed/images20200726004424.jpg
+  dark: https://pic.edenjohnson.cyou/images/images20200726004424.jpg
   opacity: 0.8
 
 comment:
@@ -75,15 +75,15 @@ reward:
   comment: 不知道有没有帮到你...
   methods:
     - name: 支付宝
-      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162034.JPG
+      path: https://pic.edenjohnson.cyou/images/20200627162034.JPG
       color: "#00A3EE"
       icon: icon-alipay-line
     - name: QQ 支付
-      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162126.JPG
+      path: https://pic.edenjohnson.cyou/images/20200627162126.JPG
       color: "#12B7F5"
       icon: icon-qq-line
     - name: 微信支付
-      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627161946.JPG
+      path: https://pic.edenjohnson.cyou/images/20200627161946.JPG
       color: "#2DC100"
       icon: icon-wechat-pay-line
 
@@ -109,11 +109,11 @@ social:
     icon: icon-netease-cloud-music-line
     color: "#C10D0C"
   - name: 哔哩哔哩动画
-    link: https://space.bilibili.com/630732127
+    link: https://space.bilibili.com/302506403
     icon: icon-bilibili-line
     color: "#FF8EB3"
   - name: Twitter
-    link: https://twitter.com/EdenJoh70017869
+    link: https://twitter.com/EdenJohnson2006
     icon: icon-twitter-line
     color: "#1da1f2"
   - name: Telegram

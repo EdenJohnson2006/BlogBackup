@@ -4,7 +4,7 @@
 
 # Site
 title: EdenJohnson瞎写小屋
-subtitle: '一个挖了无数坑却一个没填的初二屑的博客'
+subtitle: '一个挖了无数坑却一个没填的准初三屑的博客'
 description: '去探索，去发现'
 keywords:
 author: EdenJohnson
@@ -97,7 +97,3 @@ theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/EdenJohnson2006/EdenJohnson2006.github.io.git
-  branch: master
